@@ -16,11 +16,8 @@ Welcome to the **E-Commerce Store**! This project is a modern, responsive web ap
 - **![JavaScript](https://img.shields.io/badge/JavaScript-60%25-blue) ⚡️
 -  **![API](https://img.shields.io/badge/API-55%25-yellow)📡
 -  **Bootstrap** 🧴 (for styling)
-- **React Router** 🌐
+-   **React Router** 🌐
 - **React Toastify** (for notifications) 🔔
--
-
-
 - ** React-router-dom 🛠️
 
 ## 🔧 **Features** 
