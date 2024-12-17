@@ -11,13 +11,16 @@ Welcome to the **E-Commerce Store**! This project is a modern, responsive web ap
 
 ## 🚀 **Technologies Used** 🖥️
 
-- **React** ⚛️
-- **Context API** 🧑‍💻
+- **- ![React](https://img.shields.io/badge/React-50%25-blue)** ⚛️
+- ** ![Node.js](https://img.shields.io/badge/Node.js-40%25-green) 🧑‍💻
+- **![JavaScript](https://img.shields.io/badge/JavaScript-60%25-blue) ⚡️
+-  **![API](https://img.shields.io/badge/API-55%25-yellow)📡
+-  **Bootstrap** 🧴 (for styling)
 - **React Router** 🌐
 - **React Toastify** (for notifications) 🔔
-- **API** (for fetching product data) 📡
-- **Bootstrap** 🧴 (for styling)
-- **javascript ⚡️
+-
+
+
 - ** React-router-dom 🛠️
 
 ## 🔧 **Features** 
